@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
-    color: #ff5733; /* Rocking horror text color */
+    color: #33a7ff; /* Rocking horror text color */
 }
 
 html, body {
@@ -49,7 +49,7 @@ html, body {
 #nav h4 {
     text-transform: uppercase;
     font-weight: 1000;
-    color: rgb(129, 65, 65);
+    color: rgb(255, 55, 55);
     -webkit-text-stroke: 0.2px gray;
 }
 
@@ -93,21 +93,21 @@ video {
     color: black;
     top: -4px;
     left: -4px;
-    -webkit-text-stroke: 1.5px #a7090e; /* Dark red */
+    -webkit-text-stroke: 1.5px #053f41; /* Dark red */
     z-index: -1;
 }
 
 #page1 h2 {
     font-size: 30px;
     font-weight: 800;
-    color: #d26568;
+    color: #ff0008;
 }
 
 #page1 h6 {
     font-size: 18px;
     width: 40%;
     font-weight: 400;
-    color: #d26568;
+    color: #ffffff;
 
 }
 
